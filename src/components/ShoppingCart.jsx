@@ -64,7 +64,7 @@ const ShoppingCart = ({
               <span>${cartTotal.toFixed(2)}</span>
             </div>
             <Button className="w-full" onClick={onCheckout}>
-              Checkout (No Payment Required)
+              Checkout
             </Button>
           </div>
         </SheetFooter>

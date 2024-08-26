@@ -12,7 +12,8 @@ const spices = [
     id: 1,
     name: "Cinnamon",
     price: 3.99,
-    image: "https://www.pexels.com/photo/four-assorted-spices-on-wooden-spoons-1340116/
+
+    image: "images/berbere.jpg",
     type: "Regular",
     weights: ["100g", "250g", "500g", "1kg"],
   },
@@ -20,7 +21,8 @@ const spices = [
     id: 2,
     name: "Turmeric",
     price: 2.99,
-    image: "https://www.pexels.com/photo/four-assorted-spices-on-wooden-spoons-1340116/",
+
+    image: "images/berbere.jpg",
     type: "Regular",
     weights: ["100g", "250g", "500g", "1kg"],
   },
@@ -28,7 +30,8 @@ const spices = [
     id: 3,
     name: "Cumin",
     price: 1.99,
-    image: "https://www.pexels.com/photo/four-assorted-spices-on-wooden-spoons-1340116/",
+
+    image: "images/berbere.jpg",
     type: "Regular",
     weights: ["100g", "250g", "500g", "1kg"],
   },
@@ -36,7 +39,8 @@ const spices = [
     id: 4,
     name: "Paprika",
     price: 2.49,
-    image: "https://www.pexels.com/photo/four-assorted-spices-on-wooden-spoons-1340116/",
+
+    image: "images/berbere.jpg",
     type: "Regular",
     weights: ["100g", "250g", "500g", "1kg"],
   },
@@ -44,7 +48,8 @@ const spices = [
     id: 5,
     name: "Ginger",
     price: 3.49,
-    image: "https://www.pexels.com/photo/four-assorted-spices-on-wooden-spoons-1340116/",
+
+    image: "images/berbere.jpg",
     type: "Regular",
     weights: ["100g", "250g", "500g", "1kg"],
   },
@@ -52,7 +57,8 @@ const spices = [
     id: 6,
     name: "Cardamom",
     price: 4.99,
-    image: "https://www.pexels.com/photo/four-assorted-spices-on-wooden-spoons-1340116/",
+
+    image: "images/berbere.jpg",
     type: "Regular",
     weights: ["100g", "250g", "500g", "1kg"],
   },
@@ -60,7 +66,8 @@ const spices = [
     id: 7,
     name: "Berbere",
     price: 5.99,
-    image: "https://www.pexels.com/photo/four-assorted-spices-on-wooden-spoons-1340116/",
+
+    image: "images/berbere.jpg",
     type: "Ethiopian",
     weights: ["100g", "250g", "500g", "1kg"],
   },
@@ -68,7 +75,8 @@ const spices = [
     id: 8,
     name: "Korarima",
     price: 6.99,
-    image: "https://www.pexels.com/photo/four-assorted-spices-on-wooden-spoons-1340116/",
+
+    image: "images/berbere.jpg",
     type: "Ethiopian",
     weights: ["100g", "250g", "500g", "1kg"],
   },
@@ -76,7 +84,8 @@ const spices = [
     id: 9,
     name: "Shiro",
     price: 4.99,
-    image: "https://www.pexels.com/photo/four-assorted-spices-on-wooden-spoons-1340116/",
+
+    image: "images/berbere.jpg",
     type: "Ethiopian",
     weights: ["100g", "250g", "500g", "1kg"],
   },
@@ -84,7 +93,8 @@ const spices = [
     id: 10,
     name: "Ethiopian Coffee",
     price: 7.99,
-    image: "https://www.pexels.com/photo/four-assorted-spices-on-wooden-spoons-1340116/",
+
+    image: "images/berbere.jpg",
     type: "Ethiopian",
     weights: ["250g", "500g", "1kg"],
   },
@@ -156,10 +166,3 @@ const SpiceShop = () => {
 };
 
 export default SpiceShop;
-
-
-
-
-
-
-

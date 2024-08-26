@@ -1,5 +1,11 @@
 import React from "react";
-import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogDescription } from "@/components/ui/dialog";
+import {
+  Dialog,
+  DialogContent,
+  DialogHeader,
+  DialogTitle,
+  DialogDescription,
+} from "@/components/ui/dialog";
 import { Button } from "@/components/ui/button";
 import { Phone } from "lucide-react";
 
@@ -22,7 +28,9 @@ const CheckoutModal = ({ open, onOpenChange }) => {
               <p className="text-sm font-medium leading-none">
                 Call us for order details
               </p>
-              <p className="text-sm text-muted-foreground">+25134543534</p>
+              <p className="text-sm text-muted-foreground">
+                📞 0910717182 | 0928769996|
+              </p>
             </div>
           </div>
           <p className="text-sm text-muted-foreground">
